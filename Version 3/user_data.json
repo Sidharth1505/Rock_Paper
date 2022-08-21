@@ -1,0 +1,66 @@
+{
+    "hello": {
+        "Games_Played": [
+            {
+                "Rock Paper Scissors": {
+                    "Attempts": 11,
+                    "Won": 10
+                }
+            },
+            {
+                "Number Guessing": {
+                    "Score": 46
+                }
+            }
+        ],
+        "Password": "20fdf64da3cd2c78ec3c033d2ac628bacf701711fa99435ee37bef0304800dc5"
+    },
+    "lol": {
+        "Games_Played": [
+            {
+                "Rock Paper Scissors": {
+                    "Attempts": 11,
+                    "Won": 10
+                }
+            },
+            {
+                "Number Guessing": {
+                    "Score": 41
+                }
+            }
+        ],
+        "Password": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414"
+    },
+    "sid": {
+        "Games_Played": [
+            {
+                "Rock Paper Scissors": {
+                    "Attempts": 10,
+                    "Won": 10
+                }
+            },
+            {
+                "Number Guessing": {
+                    "Score": 0
+                }
+            }
+        ],
+        "Password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+    },
+    "sidharth": {
+        "Games_Played": [
+            {
+                "Rock Paper Scissors": {
+                    "Attempts": 20,
+                    "Won": 13
+                }
+            },
+            {
+                "Number Guessing": {
+                    "Score": 0
+                }
+            }
+        ],
+        "Password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+    }
+}
